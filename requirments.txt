@@ -1,0 +1,7 @@
+requests
+colorama
+argparse
+logging
+urllib3
+paramiko
+pycryptodome
